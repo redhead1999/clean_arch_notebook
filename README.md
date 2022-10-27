@@ -1,1 +1,1 @@
-# clean_arch_notebook
+# Note app in Jetpack Compose with the popular clean architecture approach.
